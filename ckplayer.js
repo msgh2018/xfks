@@ -170,7 +170,7 @@ function ckplayerConfig() {
 			crossdomain: '', //安全策略文件地址
 			unescape: false, //默认flashplayer里需要解码
 			mobileCkControls: false, //移动端h5显示控制栏
-			playbackrate: 1, //默认倍速
+			playbackrate: 4, //默认倍速
 			debug: false //是否开启调试模式
 		};
 		this.vars = {};
